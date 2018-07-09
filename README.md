@@ -3,7 +3,7 @@ Simple queue pattern in JS
 
 ### Usage
 
-*Standard Queue:*
+**Standard Queue:**
 
 ```javascript
 const queue = new Queue();
@@ -14,7 +14,7 @@ queue.enqueue(55);
 queue.printQueue();
 ```
 
-*Priority Queue:*
+**Priority Queue:**
 
 ```javascript
 const queue = new PriorityQueue();
