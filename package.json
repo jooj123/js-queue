@@ -1,0 +1,19 @@
+{
+  "name": "js-queue",
+  "version": "1.0.0",
+  "description": "JavaScript Queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "JavaScript",
+    "queue"
+  ],
+  "author": "Martin Jujou",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.3"
+  }
+}
